@@ -45,7 +45,7 @@ README.md
 Clona el repositorio.
 
 ```bash
-git clone https://github.com/TU-USUARIO/mondrian-painting-analysis.git
+git clone https://github.com/EmanuelaPop25/mondrian-painting-analysis.git
 ```
 
 Entra en la carpeta.
